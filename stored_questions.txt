@@ -1,0 +1,25 @@
+Stored Questions and Reasons:
+
+Question: Can, can you go?
+Answer: 32:27
+Rating: Average
+Reason: Stored because it was rated as 'Average' based on sentiment analysis.
+
+Question: Can you go, can you go back to Matt?
+Answer: 32:27
+Rating: Average
+Reason: Stored because it was rated as 'Average' based on sentiment analysis.
+
+Question: sense?
+Answer: I would say sales and customer success
+are really hyper focused on like what can we do right now with what we've got versus what are
+we going to do to ramp?
+Rating: Good
+Reason: Stored because it was rated as 'Good' based on sentiment analysis.
+
+Question: What do you?
+Answer: Nathan
+Yeah.
+Rating: Average
+Reason: Stored because it was rated as 'Average' based on sentiment analysis.
+
