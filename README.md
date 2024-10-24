@@ -1,8 +1,7 @@
 # pepsales_assignment
-Assigment project  for pepsales
-folder_path = "C:\\Repo\\documents"
-output_file = "C:\\Repo\\sellersconvo.txt"
-input_folder = "C:\\Repo\\documents"  # Replace with the folder path containing your PDFs
-output_folder = "C:\\Repo"
-C:\\Repo\\documents\\abc_call_1.pdf
-pdf_paths = ["C:\\Repo\\documents\\abc_call_1.pdf", "C:\\Repo\\documents\\abc_call_2.pdf", "C:\\Repo\\documents\\abc_call_3.pdf"]
+How to run the script : 
+1.pip install the required library  (pdfplumber, nltk, scikit-learn, textblob,pymongo)
+2.change the path of the pdf files at line number 151.
+3.run the program it will create all questions asked by seller text file .
+4.it will connect to local host mongo Db server and will create a  collection of top 5 questions with    rating .
+5.The stored output from the mongo db will be displayed on the ouput terminal .

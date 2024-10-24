@@ -44,8 +44,8 @@ def find_similar_questions(questions):
     similar_questions.sort(key=lambda x: x[1], reverse=True)
     return similar_questions
 
-# 4. Extract answers corresponding to top questions (next sentence after a question)
-# 4. Extract answers corresponding to top questions (next sentence after a question)
+# 4. Extract answers corresponding to top questions 
+# 4. Extract answers corresponding to top questions 
 def extract_answers(text, questions):
     # Process the entire text
     doc = nlp(text)
@@ -72,7 +72,7 @@ def extract_answers(text, questions):
     return qa_pairs
 
 
-# 5. Rate the answers based on length and sentiment (can be customized)
+# 5. Rate the answers based on length and sentiment 
 def rate_answers(answers):
     rated_answers = []
     for question, answer in answers:
